@@ -15,7 +15,7 @@ git checkout <team_name>
 ```
 
 # The Quantum Approximate Optimisation Algorithm (QAOA)
-QAOA is a widely discussed quantum algorithm for optimisation problems. In one part of the Quantinuum challenge you will be given an implenmentation of QAOA applied to the maxcut problem and asked to improve upon the code exploring different features of TKET and the QuantinuumBackend. There is also a bonus question on qubit reuse compilation.
+QAOA is a widely discussed quantum algorithm for optimisation problems. In one part of the Quantinuum challenge you will be given an implementation of QAOA applied to the maxcut problem and asked to improve upon the code exploring different features of TKET and the QuantinuumBackend. There is also a bonus question on qubit reuse compilation.
 
 For the QAOA challenges click [here](https://github.com/iQuHACK/2023_planning_quantinuum/tree/main/qaoa_challenge).
 
